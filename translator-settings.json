@@ -1,0 +1,10 @@
+{
+    "files-path": "lang/",
+    "ignored-files": [],
+    "authentification": {
+        "discord-ids": ["279568324260528128"],
+        "minecraft-names": [],
+        "minecraft-uuids": [],
+        "internal-names": []
+    }
+}
