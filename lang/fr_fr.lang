@@ -1,0 +1,267 @@
+menu.singleplayer=Solo T
+
+
+# ----- Introduction Chapter -----
+
+intro.title=Introduction
+
+intro.starting.title=Commencement
+intro.starting.desc=Avant de pouvoir commencer votre nouvelle aventure ! vous devez signer un contrat qui dit essentiellement que votre âme m'appartient pour l'éternité blah blah tout ce que vous créez est ma propriété &o*L'écriture devient si petite qu'elle en devient illisible*
+
+intro.basedef.title=Défense de la base
+intro.basedef.desc=Protégez votre terrain et effrayez les créatures avec ce nouveau dispositif de lancement de pommes de terre !
+
+intro.mineturtle.title=Il protège, il attaque et surtout, il assure vos arrières
+intro.mineturtle.desc=Le petit pote tortue *Il explose arrête de faire l'étonné, t'as vu comme il ressemble à une mine ?
+
+intro.gift.title=Un cadeau ?
+intro.gift.desc=Merci d'avoir téléchargé mon pack ! Il a fallu beaucoup de travail pour faire de cette expérience une aventure amusante pour tout le monde. Profitez-en ! -Adam
+
+intro.clipboard.desc=Les presse-papiers peuvent être utilisés pour stocker des idées/objectifs personnels dans le jeu. *Très pratique pour les joueurs du type "je ne sais pas quoi faire" *
+
+intro.bestfriends.title=Meilleurs amis pour la vie
+intro.bestfriends.desc=Faites un clic droit sur le &lDoggy Charm&7 pour appeler votre chien. Utilisez le &lBâton d'entraînement&7 sur le chien pour le dresser !
+
+intro.excavate.desc=Appuyez sur ` pour excaver et miner les gisements de minerai d'un seul coup !
+
+intro.zzz.title=Zzzzz
+intro.zzz.desc=/sethome permet de rentrer rapidement dans votre chaleureux foyer !
+
+intro.river.title=Rivière paresseuse
+intro.river.desc=Vous découvrirez bientôt que l'eau coule de manière très différente de ce à quoi vous êtes habitué. *Certains* cours d'eau se connectent maintenant à des plans d'eau et s'écoulent, construisez un bateau et allez ramer, voyez où l'aventure vous mène !
+
+intro.aquabudy.title=Copain Aquatique !
+intro.aquabudy.desc=On trouve des hippocampes nageant dans les biomes des océans et des grands fonds. Une gracieuse bête de mer qui peut être apprivoisée et manipulée comme une monture de vitesse polyvalente !
+
+intro.naturecomp.desc=Imaginez si vous pouviez localiser n'importe quel biome ? Et bien maintenant, avec quatre jeunes pousses et quelques troncs attachés à une boussole, vous le pouvez ! Commandez maintenant et je vous offre même une paire de lunettes de soleil !
+
+intro.losingcurr.title=Perte de monnaie
+intro.losingcurr.desc=Si vous mourez et perdez de l'argent ou changez de dimension et que vous remarquez que tout votre argent durement gagné a disparu, utilisez la commande /pay username 1 ; cela permettra de recharger l'argent
+
+intro.ladders.desc=*Clic droit avec une main vide pour se téléporter en haut ou en bas d'une échelle*
+
+intro.notgreat.title=Pas génial, pas horrible
+intro.notgreat.desc=Découvrez une plaine radioactive
+
+intro.cleanup.title=L'équipe de nettoyage !
+intro.cleanup.desc=Créer et utiliser des épurateurs de radiations pour nettoyer la radioactivité
+
+intro.timebottle.desc=La bouteille de temps recueillera le temps réel que vous avez passé dans le jeu et vous le rendra sous forme d'accélération de certaines tâches. En l'utilisant sur un fourneau, la cuisson sera beaucoup plus rapide. Il peut être utilisé sur la plupart des TileEntities.
+
+intro.eclipsed.desc=Lits ? Qui en a besoin
+
+intro.backpack.desc=Un coffre portable qui vit sur votre dos
+
+intro.darkness.title=Obscurité imminente
+intro.darkness.desc=Quand la nuit viendra, vous remarquerez bientôt que l'espoir, la lumière et tout ce qui est sacré vous a abandonné.
+
+intro.junk.title=Un inventaire plein de déchets ? I gotchu
+intro.junk.desc=Les caisses de stockage sont comme des coffres mais en mieux
+
+intro.oakcrate.desc=Stockage Portable
+
+intro.claim.title=Faire d'une maison un foyer
+intro.claim.desc=Créez une équipe et revendiquez le terrain autour de l'endroit où vous voulez construire. *Cela vous protège également contre le grief des mobs*
+
+intro.doorfactory.desc=Créez des portes sur mesure à partir de n'importe quel bloc et combinez l'animation de votre choix pour créer la porte personnalisée parfaite !
+
+intro.sopretty.title=Si beau...
+intro.sopretty.desc=*Clic droit sur deux blocs pour placer une lumière féerique suspendue*
+
+intro.escaperope.desc=*Maintenir un clic droit dans une grotte téléportera le joueur de retour à la surface*
+
+intro.paxel.desc=Diggy diggy hole!
+
+intro.mining.title=Miner est ma passion !
+intro.mining.desc=De retour à la mine...
+
+intro.ingots.title=Lingots, Lingots, Lingots !
+intro.ingots1.desc=Partie 1
+intro.ingots2.desc=Partie 2
+intro.ingots3.desc=Partie 3
+
+intro.sandwichstation.desc=Vous pouvez utiliser ce bloc pour créer des sandwiches personnalisés, en utilisant différentes sources d'aliments et des combinaisons vous obtiendrez un repas plus savoureux ! *Note : les baguettes peuvent être utilisées à la place du pain*
+
+intro.akashic.desc=Ce livre peut être placé dans votre vitrine de crafting avec tout autre guide que vous pourriez avoir pour créer une bibliothèque personnelle mobile. *Clic droit pour changer de guide. Clic gauche pour revenir en arrière* *Ne regardez pas un bloc en cliquant*
+
+intro.builderwand.desc=Construire n'a jamais été aussi simple !
+
+intro.ship.title=Nous partons à l'aventure !
+intro.ship.desc=Construisez un vaisseau et assemblez les structures
+
+intro.bestiary.title=Une Chanson d'&1Eau &fet de &4Lave
+intro.bestiary.desc=Ce livre contient et rassemble des informations sur des créatures fascinantes et potentiellement dangereuses que vous avez découvertes
+
+intro.amphithere.desc=Les amphitryons sont des serpents à plumes mystiques qui s'envolent à travers la jungle dense et peuvent être affrontés et capturés en montures à vol rapide.
+
+intro.hippogryph.desc=Un prédateur volant alpin qui peut être apprivoisé et manipulé comme une robuste monture de guerre volante.
+
+intro.rottenegg.desc=On peut faire éclore des bébés cockatrices apprivoisées en lançant un &lœuf pourri.
+
+intro.pixiejar.desc=Interagir sur un lutin avec un bocal dans la main permet de capturer le lutin, en laissant un bocal contenant le lutin. Les joueurs peuvent alors placer ce bocal et, dès que le lutin à l'intérieur s'assied, en recueillir la poussière de lutin.
+
+intro.pixiecake.desc=Les lutins alliés donnent un certain statut positif au joueur, selon leur couleur.
+
+intro.dragonskull.desc=Peut être monté comme un trophée
+
+intro.dragonmeal.desc=Dragons... ils grandissent si vite
+
+intro.dragoncommand.desc=Je t'ordonne de me préparer un déjeuner !
+
+intro.dragonmother.title=Mère des Dragons
+intro.dragonmother.desc=Dracarys? 
+
+intro.dragoncrystal.desc=Le Cristal d'invocation de Dragon de Feu et de Glace est un objet qui peut vous téléporter un dragon. Pour ce faire, cliquez sur un dragon avec le bouton droit de la souris pour le lier et ensuite, utilisez-le lorsqu'il est lié pour le téléporter en cliquant avec le bouton droit de la souris.
+
+intro.dragonsword.title=Épée en Acier du Dragon
+intro.dragonsword.desc=J'ai entendu des contes sur un tel pouvoir
+
+intro.diamonds.title=Les Diamants sont Éternels
+intro.diamonds.desc=Collecter 5x Diamants
+
+intro.waystone.desc=Les waystones peuvent être utilisés comme méthode de déplacement rapide, tous les villages contiennent un waystone, vous pouvez placer un waystone n'importe où dans le monde et vous y téléporter instantanément en utilisant de l'xp
+
+intro.elevator.desc=*Placez le bloc d'ascenseur en dessous d'un autre ascenseur pour passer instantanément de l'un à l'autre (maintenir s'accroupir/sauter)*
+
+intro.unknownenergies.desc=Trouver un Autel dans un biome de marais
+
+intro.betweenlands.title=The Betweenlands
+intro.betweenlands.desc=Située entre l'enfer et le monde extérieur, cette dimension n'est pas pour les faibles de cœur. Des énergies dangereuses y résident, ainsi que de dangereuses formes de vie extraterrestres qui attendent l'entrée d'aventuriers stupides !
+
+intro.wither.title=Vaincre Le &4&lWither
+intro.wither.desc=Espérons qu'ils n'apparaisse pas comme Champion !
+
+intro.beneath.title=The Beneath
+intro.beneath.desc=Viens seul, venez tous et laissez les ténèbres vous consumer !
+
+intro.obsidian.title=Aventurier du Nether
+intro.obsidian.desc=C'est profondément souterrain, au-delà de la bedrock, mais ne creusez pas tout droit, vous le regretterez
+
+intro.nether.title=Le Nether
+intro.nether.desc=Personne ne va m'embêter - Hé Satan, j'ai payé mon dû - Je joue dans un groupe de rock - Hé maman, regarde-moi, je suis en route pour la terre promise, whoo !
+
+intro.netherresource.desc=Ressources du Nether
+intro.invisiblelight.desc=Qui a besoin de torches de toute façon ?
+
+intro.netherstew.desc=Eh bien, je vais la manger, dit Alice, et si cela me fait grossir, je peux atteindre la clé ; et si cela me fait rapetisser, je peux me glisser sous la porte, donc de toute façon je vais aller dans le jardin, et peu importe ce qui se passe !
+
+intro.nertherbounty.title=Prime du Nether :
+
+intro.enderlilly.desc=Meilleure croissance sur la Roche de l'End
+intro.pocketdim.title=Dimension en Poche
+intro.pocketdim.desc=Une dimension de poche portable entièrement localisée dans votre poche ?
+intro.soulstone.desc="L'âme ? Il n'y a rien d'autre que de la chimie ici" - Walter White
+intro.efln.title=Miner sans miner
+intro.efln.desc=Boom Boom Boom
+
+intro.bonesword.desc="Les géants ne sont pas ce que nous pensons qu'ils sont. Les mêmes qualités qui semblent leur donner leur force sont souvent la source d'une grande faiblesse." - David et Goliath
+
+intro.swarmer.desc=Munitions pour une arme plus élaborée
+
+intro.swarmerlauncher.desc=C'est aussi incroyable que ce que vous imaginiez dans votre petit cerveau
+
+intro.raven.desc=Un corbeau peut être dompté en le nourrissant d'œil d'araignée, ou d'œil d'araignée fermenté, avec 1⁄3 chance de succès. Une fois apprivoisé, l'interaction avec un corbeau en tenant un bâton le fera s'asseoir et se lever.
+intro.raven.desc2=Un corbeau apprivoisé sur le sol peut être amené à se percher sur la tête de son joueur en se déplaçant à travers le corbeau. Les joueurs ayant un corbeau perché verront leur vitesse de chute réduite de 50 % et négligeront les dégâts de chute.
+
+intro.playinggod.title=Jouer à Dieu
+intro.playinggod.desc=Utilisez la potion sur n'importe quel animal de ferme.
+
+intro.undying.desc=Il refuse de mourir, ce cœur bat lentement, même après avoir été retiré de son corps. Je me demande quel genre d'objets magiques profanes pourrait être créé avec une telle bizarrerie ?
+
+intro.spooky.title=Un compagnon flippant !
+intro.spooky.desc=Placez un Jack O'Lantern sur deux bottes de foin, puis faites un clic droit au milieu avec un Coeur Immortel pour invoquer un familier spécial.&c Cette Chaîne de Quêtes ne peut pas être diabolique ! Regardez comme il est mignon, oh attendez, laissez tomber
+
+intro.mooten.title=Le lait chaud a bon goût
+intro.mooten.desc=Utilisez la potion sur une vache qui a été éclaboussée avec une &c*potion de résistance au feu*.
+
+intro.horsemen.title=Rejoindre les &cQuatre Cavaliers
+intro.horsemen.desc=Je ne suis pas vraiment mauvais, j'aime juste faire du cosplay
+
+intro.scythe.desc=Chute de l'Ithaqua. Un être maudit qui prospère dans la forêt de conifères. &cLes joueurs doivent se préparer lorsqu'ils entendent ses horribles hurlements.
+
+intro.dreamcatcher.desc=En plaçant cet artefact dans ma barre rapide, il invoquera la créature cauchemardesque du rêve horrible que vous avez fait, quelle est la différence entre ce qui est réel et ce qui ne l'est pas &k2&r &cJe crains que mes rêves soient plus réels que je ne le pensais...
+
+intro.salamander.title=La seule monture appropriée pour le porteur de &cMort et Destruction
+intro.salamander.desc=Les salamandres adultes ne peuvent pas être apprivoisées ; cependant, un joueur peut utiliser une Canne de Boeuf sur un bébé salamandre pour avoir 33% de chance d'apprivoiser la bête de feu
+intro.salamander.desc2=Une fois apprivoisée, l'interaction avec une salamandre en tenant un bâton la mettra en mode assis, suivi ou patrouille. Les salamandres apprivoisées se régénèrent lentement, et plus rapidement si elles sont immergées dans la lave. L'eau, en revanche, fera du mal à la créature.
+intro.salamander.desc3=Un joueur peut monter une salamandre apprivoisée en y mettant une selle. En outre, vous pouvez appuyer sur la touche G pour tirer 8 boules de feu en face de vous.
+
+intro.sanitycheck.title=Êtes-vous &kaaa &rtoujours sain d'esprit ?
+intro.sanitycheck.desc=On est tous &kaser&r&cfou ici
+
+intro.moltenaxe.desc=Une sensation de chaleur au toucher
+
+intro.azrael.desc=Il draine la vie des victimes, laisse derrière lui des enveloppes vides et sans vie. Dans la plupart des cercles du monde, une arme alimentée par une telle magie noire serait interdite. Il faut faire attention en maniant une telle arme, sinon vous risquez vous aussi de devenir la proie de son pouvoir corrompu.
+
+intro.goldenheart.desc=Lors de l'utilisation de cet artefact légendaire, il donnera 8 secondes de régénération si le joueur est blessé, et réparera tous les objets équipés à un rythme de 1/sec. &cQuelque chose ne va pas... Je ne suis pas moi-même...&k111&r Je n'ai jamais été... J'entends l'appel...
+
+intro.war.title=Guerre
+intro.war.desc=À quoi sert-il ?
+
+intro.mobfarm.title=Ferme à mobs automatisée basique
+intro.mobfarm.desc=C'était un véritable cimetière !
+
+intro.mobmasher.desc=*Cliquez avec le bouton droit de la souris sur une zone de terre fermée avec le Drop of Evil pour créer une méthode rudimentaire de reproduction des créatures maléfiques*
+
+
+# ----- SHOP -----
+
+shop.miner=Grotte du mineur
+shop.lumberjack=Bûcheron
+shop.magical=Emporium Magique
+shop.enchants=Enchantements
+shop.adventure=Outils d'aventurier
+shop.tavern=La Taverne
+shop.oddities=Bizarreries
+shop.precarious=Produits dangereux
+shop.blackmarket=Marché Noir
+
+
+# ----- PLAYER SHOP -----
+
+pshop.title=Shop du Joueur
+
+pshop.readdesc=*Lire la Description*
+
+pshop.intro.title=Introduction à la vente !
+pshop.intro.desc=Vous avez donc décidé que vous vouliez des pièces ? Ne le voulons-nous pas tous ? Heureusement pour vous, je vais vous apprendre les bases pour automatiser le processus et vous préparer pour la vie !
+
+pshop.taskscreen.desc=L'écran des tâches deviendra votre meilleur ami, pour commencer à automatiser, il suffit d'ouvrir le gui et de choisir une tâche. Introduisez les objets dans l'écran des tâches et regardez les pièces affluer !
+
+pshop.output.title=Stockage de monnaie en sortie
+pshop.output.desc=Placez les moulins à eau dans l'eau pour alimenter le bloc
+pshop.output.desc2=Ce dispositif (coffre de joueur) peut retirer automatiquement des pièces d'un inventaire de joueur si on lui demande de le faire *Donner un accès complet au slot où se trouve la pièce*
+
+pshop.rawmeat.name=Viande Crue
+pshop.rawfish.name=Poisson Cru
+
+pshop.murray.name=Les os manquants de Murray
+pshop.murray.desc=Bonjour ! Je suis Murray la tête squelettique détachée. Pourriez-vous m'aider à retrouver mon corps égaré ?
+pshop.murray.headbone=L'os de la tête est relié à l'os de la jambe
+pshop.murray.ribbone=L'os de la côte est relié à l'os du bras
+pshop.murray.armbone=L'os du bras est relié à l'os de la tête
+pshop.murray.legbone=L'os de la jambe est relié à l'os de la hanche
+
+pshop.unlocked.intro=Débloqué après avoir complété le chapitre Introduction
+pshop.unlocked.exploration=Débloqué après avoir complété le chapitre Exploration
+pshop.unlocked.artifacts=Débloqué après avoir complété le chapitre sur les Artefacts Légendaires
+pshop.unlocked.bosses=Débloqué après avoir complété les Bosses
+pshop.unlocked.introscience=Débloqué après avoir complété Introduction à la Science
+pshop.unlocked.advscience=Débloqué après avoir terminé Sciences avancées
+pshop.unlocked.magic=Débloqué pour l'achèvement de l'Essence de la Magie
+pshop.unlocked.enderdragon=Débloqué après avoir vaincu le Dragon de l'Ender
+
+pshop.category.lumberjack=Bûcheron
+pshop.category.mining=Mines
+pshop.category.farming=Agriculture
+pshop.category.exotic=Exotique
+pshop.category.block=Bloc
+pshop.category.baking=Boulangerie
+pshop.category.liquid=*Liquide* *Insertion dans l'écran des tâches*
+pshop.category.energy=*Energie* *Insertion dans l'écran des tâches*
+pshop.category.nuclear=Fission nucléaire non homologuée
+pshop.category.hunter=Chasseur
+pshop.category.fishing=Pêche
+pshop.category.cheesemaker=Fromager
+pshop.category.drop=Drop
+pshop.category.manual=Ne peut pas être automatisé
