@@ -1,0 +1,267 @@
+menu.singleplayer=Singleplayer T
+
+
+# ----- Introduction Chapter -----
+
+intro.title=Introduction
+
+intro.starting.title=Starting
+intro.starting.desc=Before you can begin your new adventure! you have to sign a contract which essentially says your soul belongs to me for all eternity blah blah everything you ever create is proprietary property of me &o*The writing becomes so small its unreadable*
+
+intro.basedef.title=Base defence
+intro.basedef.desc=Protecting the land and scaring away creatures with this new potato launching device!
+
+intro.mineturtle.title=He protec, he attac and most importantly he got your back
+intro.mineturtle.desc=Lil turtle buddy *He explodes stop acting all surprised, have you seen how much he looks like a landmine??*
+
+intro.gift.title=A gift?
+intro.gift.desc=Thank you for downloading my pack! Lots of work went into making this hopefully a fun experience for everyone. Enjoy! -Adam
+
+intro.clipboard.desc=Clipboards can be used to store ideas/personal goals ingame. *Very handy for the "I don't know what to do" type of player*
+
+intro.bestfriends.title=Best Friends Forever
+intro.bestfriends.desc=Right click the &lDoggy Charm&7 to summon your dog. Use the &lTraining Stick&7 on the dog to train him!
+
+intro.excavate.desc=Press ` to Ore Excavate and mine ore veins in one fell swoop!
+
+intro.zzz.title=Zzzzz
+intro.zzz.desc=/sethome allows for fast travel back to your cozy home!
+
+intro.river.title=Lazy river
+intro.river.desc=You'll soon find water flows quite differently then maybe what you're used too. *some* streams now connect to bodies of water and flow, craft a boat and go for a paddle, see where the adventure takes you!
+
+intro.aquabudy.title=Aqua Buddy!
+intro.aquabudy.desc=Hippocampi can be found swimming around in Ocean and Deep Ocean biomes. A graceful seafaring beast that can be tamed and handled as a versatile speed mount!
+
+intro.naturecomp.desc=Imagine if you could locate any biome? Well now with four little saplings and a couple of logs attached to a compass you can! Order now and I'll even throw in a free pair of our award winning sunglasses!
+
+intro.losingcurr.title=Losing Currency
+intro.losingcurr.desc=If you die and lose currency or change dimension and you notice all of your hard earned money has vanished, use the command /pay username 1 this will reload the money
+
+intro.ladders.desc=*Right click with an empty hand to teleport to the top or bottom of a ladder*
+
+intro.notgreat.title=Not great, not terrible
+intro.notgreat.desc=Discover a radioactive wasteland
+
+intro.cleanup.title=The Cleanup Crew!
+intro.cleanup.desc=Create and use radiation scrubbers to clean up radioactivity
+
+intro.timebottle.desc=The time in a bottle will collect real world time you've spent in game and give it back to you in the form of speeding certain tasks up, using it on a furnace will cause the furnace to cook much faster. It can be used on most TileEntities.
+
+intro.eclipsed.desc=Beds? Who needs em
+
+intro.backpack.desc=Portable chest that lives on your back
+
+intro.darkness.title=Impending darkness
+intro.darkness.desc=When night comes you will soon notice hope, light and everything holy has forsaken you.
+
+intro.junk.title=Inventory full of junk? I gotchu
+intro.junk.desc=Storage crates are like chests but better
+
+intro.oakcrate.desc=Portable Storage
+
+intro.claim.title=Make a house a home
+intro.claim.desc=Create a team and claim the land around where you want to build. *This also protects you from mob griefing*
+
+intro.doorfactory.desc=Create custom doors out of any block and combine any animation you want to create the perfect personalised door!
+
+intro.sopretty.title=So pretty...
+intro.sopretty.desc=*Right click on two blocks to place a hanging fairy light*
+
+intro.escaperope.desc=*Holding right click while in a cave will teleport the player back to the surface*
+
+intro.paxel.desc=Diggy diggy hole!
+
+intro.mining.title=Mining is my passion!
+intro.mining.desc=Way back in the mine...
+
+intro.ingots.title=Ingots, Ingots, Ingots!
+intro.ingots1.desc=Part Uno
+intro.ingots2.desc=Part Dos
+intro.ingots3.desc=Part Tres
+
+intro.sandwichstation.desc=You can use this block to create custom sandwiches, using different sources of food and combo's will result in a tastier meal! *Note baguettes can be used instead of bread*
+
+intro.akashic.desc=This book can be placed in your crafting window with any guide book you may have to create a personal library on the go. *Right click to change guides. Left click to revert back* *Don't look at a block while clicking*
+
+intro.builderwand.desc=Building has never been this easy!
+
+intro.ship.title=We are going on an adventure!
+intro.ship.desc=Contruct a ship and assemble the structure
+
+intro.bestiary.title=A Song of &1Water &fand &4Lava
+intro.bestiary.desc=This book holds and collects records of ellusive and potencially dangerous creatures you have uncovered
+
+intro.amphithere.desc=Amphitheres are mystical feathered serpents that soar through the dense jungle and can be tackled and cowed into fast flying mounts.
+
+intro.hippogryph.desc=An alpine flying predator that can be tamed and handled as a sturdy flying war mount.
+
+intro.rottenegg.desc=Baby tamed cockatrices can be hatched by throwing a &lrotten egg.
+
+intro.pixiejar.desc=Interacting with a pixie with a jar in your hand will capture the pixie, dropping a jar with the pixie inside. Players can then place this jar, and, as soon as the pixie inside sits down, collect pixie dust from it.
+
+intro.pixiecake.desc=Befriended pixies provide certain positive status to the player, depending on their color.
+
+intro.dragonskull.desc=Can be mounted as trophies
+
+intro.dragonmeal.desc=Dragons... they grow up so fast
+
+intro.dragoncommand.desc=I command thee to make me some lunch!
+
+intro.dragonmother.title=Mother of Dragons
+intro.dragonmother.desc=Dracarys? 
+
+intro.dragoncrystal.desc=Fire and Ice Dragon Summoning Crystal is an item that can teleport a dragon to you. To do so, right-click on a dragon to bind it and after, use when bound to teleport the dragon by right-clicking.
+
+intro.dragonsword.title=Dragon Steel Sword
+intro.dragonsword.desc=I've heard tales of such power
+
+intro.diamonds.title=Diamonds are Forever
+intro.diamonds.desc=Collect 5x Diamonds
+
+intro.waystone.desc=Waystones can be used as a method of fast travel, all villages contain one waystone, you can place a waystone anywhere in the world and teleport to it instantly using xp
+
+intro.elevator.desc=*Place the elevator block below another elevator to travel instantaneously between them (hold shift/jump)*
+
+intro.unknownenergies.desc=Find an Altar in a swamp biome
+
+intro.betweenlands.title=The Betweenlands
+intro.betweenlands.desc=Located between Hell and the Overworld, this dimension is not for the faint of heart. Dangerous energies reside along with treacherous extraterrestrial life-forms awaiting for foolish adventurers to enter!
+
+intro.wither.title=Defeat The &4&lWither
+intro.wither.desc=Lets hope it doesn't spawn as a Champion!
+
+intro.beneath.title=The Beneath
+intro.beneath.desc=Come one, come all and let the darkness consume you!
+
+intro.obsidian.title=Nether Adventurer
+intro.obsidian.desc=It's deep underground, Past the bedrock, But don't dig straight down, You'll regret that
+
+intro.nether.title=The Nether
+intro.nether.desc=Nobody's gonna mess me around - Hey Satan, paid my dues - Playing in a rocking band - Hey mama, look at me I'm on my way to the promised land, whoo!
+
+intro.netherresource.desc=Nether Resource
+intro.invisiblelight.desc=Who needs torches anyway?
+
+intro.netherstew.desc=Well, I'll eat it,' said Alice, `and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door so either way I'll get into the garden, and I don't care which happens!
+
+intro.nertherbounty.title=Nether Bounty:
+
+intro.enderlilly.desc=Grows better on End Stone
+intro.pocketdim.title=Pocket Dimension
+intro.pocketdim.desc=Portable pocket dimension localized entirely within your pocket?
+intro.soulstone.desc="The soul? There's nothing but chemistry here" - Walter White
+intro.efln.title=Mining without mining
+intro.efln.desc=Boom Boom Boom
+
+intro.bonesword.desc="Giants are not what we think they are. The same qualities that appear to give them strength are often the sources of great weakness." - David and Goliath
+
+intro.swarmer.desc=Ammo for a more sophisticated weapon
+
+intro.swarmerlauncher.desc=It's just as amazing as you pictured in that little brain of yours
+
+intro.raven.desc=A Raven can be tamed by feeding them Spider Eye, or Fermented Spider Eye, with 1⁄3 chance of success. Once tamed, interacting with a Raven when holding a Stick will make it sit down and stand up.
+intro.raven.desc2=A tamed Raven on the ground can be made to perch on its player's head by moving through the Raven. Players with Raven perching will have their falling speed decreased by 50% and neglect any falling damage.
+
+intro.playinggod.title=Playing God
+intro.playinggod.desc=Use the potion on any farm animal.
+
+intro.undying.desc=It refuses to die, this heart is beating slowly, even after being removed from its body. I wonder what sort of unholy magical items could be created with such an oddity?
+
+intro.spooky.title=A Spooky Companion!
+intro.spooky.desc=Put a Jack O'Lantern on top of two Hay Bales and then right-click in the middle with a Undying Heart to summon a special pet.&c This Quest Chain can't be evil! Look how cute this little guy is, oh wait nevermind
+
+intro.mooten.title=Warm milk tastes good
+intro.mooten.desc=Use the potion on a cow that has been splashed with a &c*potion of fire resistance*
+
+intro.horsemen.title=Joining the &cFour Horsemen
+intro.horsemen.desc=I'm not really evil, I just like to cosplay
+
+intro.scythe.desc=Drops from the Ithaqua. A cursed being that thrives in the coniferous forest. &cPlayers should prepare themselves when they hear its horrifying howls.
+
+intro.dreamcatcher.desc=By placing this artifact in my hotbar, it will summon the nightmarish creature from the horrible dream you found yourself enduring, what is the difference between what's real and what isn't &k2&r &cI fear my dreams may be more real than I thought...
+
+intro.salamander.title=The only mount suitable for the bringer of &cDeath and Destruction
+intro.salamander.desc=Adult Salamanders cannot be tamed; however, a player can use a Cane Beef on a baby Salamander to have a 33% chance of taming the fiery beast
+intro.salamander.desc2=Once tamed, interacting with a Salamander while holding a Stick will set it to sit, follow or patrol mode. Tamed Salamanders will slowly regenerate their health, and faster if submerged into lava. Water on the other hand will harm the creature.
+intro.salamander.desc3=A Player can ride a tamed Salamander by putting a Saddle on it. In addition you can press G to shot 8 fireballs in the facing direction.
+
+intro.sanitycheck.title=Are you &kaaa &rstill sane?
+intro.sanitycheck.desc=We're all &kaser&r&cmad here
+
+intro.moltenaxe.desc=Feels warm to the touch
+
+intro.azrael.desc=Drains the life from victims, leaves behind empty lifeless husks. In most circles of the world a weapon fueled by such dark magic would be forbidden, One should be careful wielding such a weapon or you too may fall prey to its corrupting power.
+
+intro.goldenheart.desc=When using this legendary artifact, it will give 8 seconds of Regeneration if the player is wounded, and will repair all equipped items at a rate of 1/sec. &cSomething feels off... I am not myself...&k111&r I never was... I hear the calling...
+
+intro.war.title=War
+intro.war.desc=What is it good for?
+
+intro.mobfarm.title=Basic Automated Mob Farm
+intro.mobfarm.desc=It was a graveyard smash!
+
+intro.mobmasher.desc=*Right click an enclosed dirt area with the Drop of Evil to create a rudimentary method of spawning evil creatures*
+
+
+# ----- SHOP -----
+
+shop.miner=Miner's Grotto
+shop.lumberjack=Lumberjack's
+shop.magical=Magical Emporium
+shop.enchants=Enchants
+shop.adventure=Adventurer's Tools
+shop.tavern=The Tavern
+shop.oddities=Oddities
+shop.precarious=Precarious Goods
+shop.blackmarket=Black Market
+
+
+# ----- PLAYER SHOP -----
+
+pshop.title=Player Shop
+
+pshop.readdesc=*Read Description*
+
+pshop.intro.title=An Introduction To Selling!
+pshop.intro.desc=So you've decided you want coins? Don't we all? Luckily for you I'm going to teach you the basics for automating the process and setting you up for life!
+
+pshop.taskscreen.desc=The task screen will become your best friend, to begin automating simply open the gui and pick a task. Pipe the items into the task screen and watch the coins flow!
+
+pshop.output.title=Outputting currency into storage
+pshop.output.desc=Place the Water Mills within water to power the block
+pshop.output.desc2=This device (player chest) can draw out coins automatically from a player inventory if prompted to do so *Give the slot where the coin is located full access*
+
+pshop.rawmeat.name=Raw Meat
+pshop.rawfish.name=Raw Fish
+
+pshop.murray.name=Murray's missing bones
+pshop.murray.desc=Hello! I'm Murray the detached skeletal head. Could you help me find my misplaced body?
+pshop.murray.headbone=The head bone is connected to the leg bone
+pshop.murray.ribbone=The rib bone is connected to the arm bone
+pshop.murray.armbone=The arm bone is connected to the head bone
+pshop.murray.legbone=The leg bone is connected to the hip bone
+
+pshop.unlocked.intro=Unlocked after completing the Introduction chapter
+pshop.unlocked.exploration=Unlocked after completing the Exploration chapter
+pshop.unlocked.artifacts=Unlocked after completing the Legendary Artifacts chapter
+pshop.unlocked.bosses=Unlocked after completing Bosses
+pshop.unlocked.introscience=Unlocked after completing Introduction to Science
+pshop.unlocked.advscience=Unlocked after completing Advanced Science
+pshop.unlocked.magic=Unlocked from completing Essence of Magic
+pshop.unlocked.enderdragon=Unlocked after defeating the Ender Dragon
+
+pshop.category.lumberjack=Lumberjack
+pshop.category.mining=Mining
+pshop.category.farming=Farming
+pshop.category.exotic=Exotic
+pshop.category.block=Block
+pshop.category.baking=Baking
+pshop.category.liquid=*Liquid* *Pipe into a task screen*
+pshop.category.energy=*Energy* *Input into Task Screen*
+pshop.category.nuclear=Non-Sanctioned Nuclear Fission
+pshop.category.hunter=Hunter
+pshop.category.fishing=Fishing
+pshop.category.cheesemaker=Cheesemaker
+pshop.category.drop=Drop
+pshop.category.manual=Can not be automated
